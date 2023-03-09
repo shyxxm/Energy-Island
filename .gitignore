@@ -7,3 +7,4 @@ ENV/
 env.bak/
 venv.bak/
 /env
+islandproject_root/apps/authentication/__pycache__/
